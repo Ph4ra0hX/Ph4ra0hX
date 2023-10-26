@@ -29,4 +29,4 @@ func GetDailyKnowledge() []string {
 
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
 
-[Practitioner]: https://www.credly.com/badges/204a9cce-0268-4e2b-9778-14b0d9a2442a/public_url
+[Practitioner]: https://www.credly.com/earner/earned/badge/42adb233-b046-4916-aba2-a4420dd83925
