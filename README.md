@@ -25,9 +25,6 @@ func GetDailyKnowledge() []string {
 	}
 }
 
-func GetFutureGoal() string {
-	return "Contribute to open source, work with international projects and help a lot with knowledge"
-}
 ```
 
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
