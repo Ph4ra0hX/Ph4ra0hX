@@ -1,4 +1,4 @@
-## Hi there, I'm Wesley! <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="40"> 
+## Hi there, I'm Wesley! <img src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp" width="40"> 
 
 ```go
 package WesleyJonatha
