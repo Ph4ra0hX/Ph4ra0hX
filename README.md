@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi there, I'm Wesley! <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="40"> 
 
-<!--
-**Ph4ra0hX/Ph4ra0hX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+package WesleyJonatha
 
-Here are some ideas to get you started:
+func GetCurrentWorkPosition() map[string]string {
+	return map[string]string{
+		"company":  "Stefanini",
+		"position": "Full Stack",
+	}
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func GetDegree() string {
+	return "Bachelor's degree in software engineering"
+}
+
+func GetDailyKnowledge() []string {
+	return []string{
+		"TypeScript",
+		"GoLang",
+		"AWS - Amazon Web Services",
+		"Vuejs",
+		"Angular",
+		"Docker",
+	}
+}
+
+func GetFutureGoal() string {
+	return "Contribute to open source, work with international projects and help a lot with knowledge"
+}
+```
+
+[<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
+
+[Practitioner]: https://www.credly.com/badges/204a9cce-0268-4e2b-9778-14b0d9a2442a/public_url
